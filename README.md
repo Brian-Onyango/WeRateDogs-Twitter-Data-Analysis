@@ -1,2 +1,2 @@
-# WeRateDogs-Twitter-Data-Analysis
-Udacity Data Wrangling Project
+# Udacity Data Analyst Nanodegree
+Data Wrangling Project
