@@ -51,3 +51,8 @@ Analyze and visualize your wrangled data in your **wrangle_act.ipynb Jupyter Not
 
 Create a **300-600 word written report called wrangle_report.pdf** that briefly describes your wrangling efforts. This is to be framed as an internal document.
 Create a **>250 word written report called act_report.pdf** that communicates the insights and displays the visualization(s) produced from your wrangled data. This is to be framed as an external document, like a blog post or magazine article, for example.
+
+## Python Notebook
+In case the notebook in this repo fails to render on your side (the file is a little huge), kindly access the notebook through this link:
+
+- [wrangle_act.ipynb](https://colab.research.google.com/drive/18M9Lsj_1TixuRGtDiTxhI4muroC9cciH)
